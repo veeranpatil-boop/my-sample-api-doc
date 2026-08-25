@@ -15,5 +15,5 @@ nav:
   - Authentication: authentication.md
   - Errors: errors.md
   - Pagination: pagination.md
-  - rate-limiting: rate-limiting.md
+  - Rate Limiting: rate-limiting.md
   - Webhooks : webhooks.md
