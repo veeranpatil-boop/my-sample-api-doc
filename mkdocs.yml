@@ -1,0 +1,19 @@
+site_name: DocOps Sentinel
+site_description: Automated documentation quality checks for Markdown
+site_url: https://veeranpatil-boop.github.io/sentinel-documentation/
+site_author: Veeran Patil
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Architecture: architecture.md
+  - Quality Rules: quality-rules.md
+  - CI/CD Integration: ci-cd.md
+  - Configuration: configuration.md
+  - Troubleshooting: troubleshooting.md
