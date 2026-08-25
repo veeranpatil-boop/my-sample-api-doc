@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://veeranpatil-boop.github.io/sentinel-documentation/authentication/</loc>
+         <lastmod>2026-08-25</lastmod>
+    </url>
+    <url>
+         <loc>https://veeranpatil-boop.github.io/sentinel-documentation/errors/</loc>
+         <lastmod>2026-08-25</lastmod>
+    </url>
+    <url>
+         <loc>https://veeranpatil-boop.github.io/sentinel-documentation/getting-started/</loc>
+         <lastmod>2026-08-25</lastmod>
+    </url>
+    <url>
+         <loc>https://veeranpatil-boop.github.io/sentinel-documentation/pagination/</loc>
+         <lastmod>2026-08-25</lastmod>
+    </url>
+    <url>
+         <loc>https://veeranpatil-boop.github.io/sentinel-documentation/rate-limiting/</loc>
+         <lastmod>2026-08-25</lastmod>
+    </url>
+    <url>
+         <loc>https://veeranpatil-boop.github.io/sentinel-documentation/webhooks/</loc>
+         <lastmod>2026-08-25</lastmod>
+    </url>
+</urlset>
